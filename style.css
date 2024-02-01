@@ -1,0 +1,38 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+h1 { 
+    color: orange;
+    font-size: 36px; 
+    font-weight: 900;
+}
+h2 {
+    color: burlywood;
+    font-size: 28px;
+}
+p{
+    color: brown; 
+    font-size: 18px; 
+}
+img{
+    max-width: 320px;
+}    html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 { 
+    color: orange;
+    font-size: 36px; 
+    font-weight: 900;
+}
+h2 {
+    color: burlywood;
+    font-size: 28px;
+}
+p{
+    color: brown; 
+    font-size: 18px; 
+}
+img{
+    max-width: 320px;
+}
